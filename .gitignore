@@ -1,0 +1,7 @@
+chromium/
+index.exe
+node_modules/
+package-lock.json
+package.json
+*.vscode
+.csv
